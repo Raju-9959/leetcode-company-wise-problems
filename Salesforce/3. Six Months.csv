@@ -1,8 +1,8 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Closest Equal Element Queries,100.0,0.3105140835299015,https://leetcode.com/problems/closest-equal-element-queries,"Array, Hash Table, Binary Search"
-MEDIUM,Minimum Operations to Reduce an Integer to 0,91.5,0.5713762286333296,https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0,"Dynamic Programming, Greedy, Bit Manipulation"
-MEDIUM,String Compression,88.3,0.5795962019962896,https://leetcode.com/problems/string-compression,"Two Pointers, String"
-MEDIUM,Subarray Product Less Than K,86.5,0.5278802022310972,https://leetcode.com/problems/subarray-product-less-than-k,"Array, Binary Search, Sliding Window, Prefix Sum"
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics,status
+MEDIUM,Closest Equal Element Queries,100.0,0.3105140835299015,https://leetcode.com/problems/closest-equal-element-queries,"Array, Hash Table, Binary Search",
+MEDIUM,Minimum Operations to Reduce an Integer to 0,91.5,0.5713762286333296,https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0,"Dynamic Programming, Greedy, Bit Manipulation",done
+MEDIUM,String Compression,88.3,0.5795962019962896,https://leetcode.com/problems/string-compression,"Two Pointers, String",done
+MEDIUM,Subarray Product Less Than K,86.5,0.5278802022310972,https://leetcode.com/problems/subarray-product-less-than-k,"Array, Binary Search, Sliding Window, Prefix Sum",done
 EASY,Split a String in Balanced Strings,82.4,0.8676779960633376,https://leetcode.com/problems/split-a-string-in-balanced-strings,"String, Greedy, Counting"
 HARD,Smallest Substring With Identical Characters II,82.4,0.40448888267375194,https://leetcode.com/problems/smallest-substring-with-identical-characters-ii,"String, Binary Search"
 MEDIUM,Minimum Time to Visit All Houses,82.4,0.7010463378176383,https://leetcode.com/problems/minimum-time-to-visit-all-houses,"Array, Prefix Sum"
